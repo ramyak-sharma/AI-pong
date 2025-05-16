@@ -1,17 +1,16 @@
-# Pong Game with Q-learning Agent
-This is a Python implementation of the classic Pong game, featuring a Q-learning agent that learns to play against an AI player or a human player.
+# Project Overview
 
-## Installation
-To install the required libraries, run the following command (preferably create a virtual environment):
+This project is a Python-based version of the classic Pong game, enhanced with a Q-learning agent capable of learning to play against either a human or an AI opponent.
 
-`pip install pygame`
+## Setup Instructions
 
-`pip install matplotlib`
+Before running the game, ensure that the necessary dependencies are installed. It’s recommended to use a virtual environment. Install the libraries using:
+```
+pip install pygame
+pip install matplotlib
+pip install numpy
+```
+## How to Run
 
-`pip install numpy`
-
-## Usage
-To start the game, run the following command:
-
+To launch the game, execute the following command in your terminal:
 `python main.py`
-
